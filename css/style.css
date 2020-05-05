@@ -1,0 +1,42 @@
+body {
+    background-color: #6f42c1   ;
+}
+.modalW {
+    display: block;
+}
+.input {
+    background-color: #c8cbcf;
+}
+.nav-wrapper {
+    padding-top: 20px;
+}
+
+.row {
+    display: flex;
+}
+.navigation {
+    font-size: 22px;
+    font-weight: 600;
+
+}
+
+.navigation__link {
+   text-decoration: none;
+
+}
+
+.navigation__link:hover, .navigation__link:active, .navigation__link:focus {
+    color: #f72464;
+    text-decoration: none;
+
+}
+
+.content-div {
+    font-size: 22px;
+    margin-left: 50px;
+}
+
+.avtorization {
+    margin-top: 100px;
+    margin-left: 100px;
+}
